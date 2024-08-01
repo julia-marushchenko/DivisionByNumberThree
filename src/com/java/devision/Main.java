@@ -3,9 +3,7 @@ package com.java.devision;
 public class Main {
 	
 	// Number 904. How many times is divided by 3.
-	
 	public static void main(String [] str){
-		
 		int count = 0;
 		int number = 0;
 		System.out.print("Numbers are: ");
